@@ -2,7 +2,7 @@
 
 #### Install manually
 
-Download using the [GitHub .zip download](#) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/getomni/konsole/archive/master.zip) option and unzip them.
 
 #### Activating theme
 

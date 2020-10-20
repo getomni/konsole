@@ -1,23 +1,43 @@
-# Omni for [Konsole](https://konsole.kde.org)
+<h1 align="center">
+  <br>
+  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
+  <br>
+  Omni for <a href="https://konsole.kde.org">Konsole</a>
+  <br>
+</h1>
 
-> A dark theme for [Konsole](https://konsole.kde.org).
+<p align="center">
+  <strong>Dark theme for <a href="https://konsole.kde.org">Konsole</a></strong>
+</p>
 
-![Screenshot](./screenshot.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
+</p>
+
+<p align="center">
+  <a href="#install">Install</a> •
+  <a href="#team">Team</a> •
+  <a href="#license">License</a>
+</p>
+
+<p align="center">
+  <img alt="Omni screnshoot for Konsole" src="./screenshot.png">
+</p>
 
 ## Install
 
-1.  Copy `Omni.colorscheme` to `~/.local/share/konsole`
-2.  Go to _Konsole > Settings > Edit Current Profile… > Appearance_ tab
-3.  Select the _Omni_ scheme from the _Color Schemes & Background…_ pane
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by Rocketseat
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/konsole/graphs/contributors).
 
-[![João Inácio](https://avatars0.githubusercontent.com/u/22185823?v=3&s=70)](https://github.com/birobirobiro) |
---- |
-[João Inácio](https://github.com/birobirobiro) |
+| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
+| ----------------------------------------------------------------------------------------------- |
+| [João Inácio](https://github.com/birobirobiro)                                                  |
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.md)
